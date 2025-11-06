@@ -10,11 +10,11 @@
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/abaop2.gif" style="margin-right: 40px;" />
+<img align="left" height="200" src="https://i.imgflip.com/abaop2.gif" style="margin-right: 20px;" />
 
 ###
 
-<h4 align="left">
+<h4 align="left" style="margin-left: 20px;">
   Hi there 👋, I’m a Computer Engineer passionate about building intelligent, data-driven systems.<br><br>
   My expertise lies in Machine Learning, Computer Vision, and Data Analysis, often applied to IoT environments to create smarter and more connected solutions.<br><br>
   On the web side, I enjoy developing modern, responsive interfaces using React.js, and have hands-on experience in backend development with Express.js, working with both SQL and NoSQL databases.<br><br>
