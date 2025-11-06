@@ -5,16 +5,21 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/abaop2.gif"  />
+<img align="left" height="200" src="https://i.imgflip.com/abaop2.gif" style="margin-right: 20px;" />
 
 ###
 
-<h4 align="left">Hi there 👋, I’m a Computer Engineer passionate about building intelligent, data-driven systems.<br><br>My expertise lies in Machine Learning, Computer Vision, and Data Analysis, often applied to IoT environments to create smarter and more connected solutions.<br><br>On the web side, I enjoy developing modern, responsive interfaces using React.js, and have hands-on experience in backend development with Express.js, working with both SQL and NoSQL databases.<br><br>I’m always eager to learn, collaborate, and turn complex ideas into impactful applications.</h4>
+<h4 align="left">
+  Hi there 👋, I’m a Computer Engineer passionate about building intelligent, data-driven systems.<br><br>
+  My expertise lies in Machine Learning, Computer Vision, and Data Analysis, often applied to IoT environments to create smarter and more connected solutions.<br><br>
+  On the web side, I enjoy developing modern, responsive interfaces using React.js, and have hands-on experience in backend development with Express.js, working with both SQL and NoSQL databases.<br><br>
+  I’m always eager to learn, collaborate, and turn complex ideas into impactful applications.
+</h4>
 
 ###
 
