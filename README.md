@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/abaop2.gif" style="margin-right: 20px;" />
+<img align="left" height="200" src="https://i.imgflip.com/abaop2.gif" style="margin-right: 40px;" />
 
 ###
 
