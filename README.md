@@ -5,12 +5,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-###
-
-<h4 align="left">Hi there 👋, I’m a Computer Engineer passionate about building intelligent, data-driven systems.<br><br>My expertise lies in Machine Learning, Computer Vision, and Data Analysis, often applied to IoT environments to create smarter and more connected solutions.<br><br>On the web side, I enjoy developing modern, responsive interfaces using React.js, and have hands-on experience in backend development with Express.js, working with both SQL and NoSQL databases.<br><br>I’m always eager to learn, collaborate, and turn complex ideas into impactful applications.</h4>
 
 ###
 
@@ -18,11 +14,7 @@
 
 ###
 
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h4 align="left">Hi there 👋, I’m a Computer Engineer passionate about building intelligent, data-driven systems.<br><br>My expertise lies in Machine Learning, Computer Vision, and Data Analysis, often applied to IoT environments to create smarter and more connected solutions.<br><br>On the web side, I enjoy developing modern, responsive interfaces using React.js, and have hands-on experience in backend development with Express.js, working with both SQL and NoSQL databases.<br><br>I’m always eager to learn, collaborate, and turn complex ideas into impactful applications.</h4>
 
 ###
 
@@ -31,6 +23,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RifanDK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RifanDK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -152,7 +150,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
